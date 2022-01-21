@@ -29,5 +29,7 @@
   
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   </div>
-  
-  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="370" />
+    
+  <div>
+  <img src="https://lh3.googleusercontent.com/fTGMshjGHS6FVvO8LIYmK34ZdkPOokxFX4guk0xfnTiXsqYkEbqe_mKMczNTsWdZ8DyCcg8lbUh2-hAj0DbbBV8SB0x6Vxm4x3BoxdAUIg"  width="370"> 
+  </div>
