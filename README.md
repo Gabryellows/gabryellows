@@ -5,6 +5,7 @@
 - 👯 Tudo que estiver ao meu alcance e conhecimento irei ajudar! 😉
 - 🤔 Qualquer ajuda em relação a Js, Ts, Docker, SQL, Java e Python será bem vinda! 
 - ⚡ Eu gosto de tortas. 
+- 🧡 Amorzão da Larissa!
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
