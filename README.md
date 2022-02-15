@@ -5,7 +5,7 @@
 - 👯 Tudo que estiver ao meu alcance e conhecimento irei ajudar! 😉
 - 🤔 Qualquer ajuda em relação a Js, Ts, Docker, SQL, Java e Python será bem vinda! 
 - ⚡ Eu gosto de tortas. 
-- 🧡 Amorzão da Larissa!
+
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabryellows&layout=compact&langs_count=7&theme=dracula"/>
