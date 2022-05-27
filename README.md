@@ -1,7 +1,7 @@
 ### Oie, Eu sou o Gabriel 👋
 
-- 🔭 Hoje trabalho na Lojas Quero Quero SA no programa de estágio QQTech. 😁🐣
-- 🌱 Estou estudando e aprendendo Javascript.
+- 🔭 Atualmente como estágiario desenvolvedor de software na Lojas Quero Quero SA. 😁🐣
+- 🌱 Estou estudando e aprendendo Java.
 - 👯 Tudo que estiver ao meu alcance e conhecimento irei ajudar! 😉
 - 🤔 Qualquer ajuda em relação a Js, Ts, SQL, Java e Python será bem vinda! 
 
